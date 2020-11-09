@@ -7,6 +7,9 @@ class _Analytics(_Saas):
     _type = "analytics"
     _icon_dir = "resources/saas/analytics"
 
+class FiveTran(_Analytics):
+    _icon = "fivetran.png"
+
 class Mode(_Analytics):
     _icon = "mode.png"
 
