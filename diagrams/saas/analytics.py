@@ -16,6 +16,9 @@ class Mode(_Analytics):
 class Snowflake(_Analytics):
     _icon = "snowflake.png"
 
+class Segment(_Analytics):
+    _icon = "segment.png"
+
 class Sigma(_Analytics):
     _icon = "sigma.png"
 
