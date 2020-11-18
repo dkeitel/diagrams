@@ -7,20 +7,26 @@ class _Analytics(_Saas):
     _type = "analytics"
     _icon_dir = "resources/saas/analytics"
 
-class FiveTran(_Analytics):
+
+class Fivetran(_Analytics):
     _icon = "fivetran.png"
+
 
 class Mode(_Analytics):
     _icon = "mode.png"
 
-class Snowflake(_Analytics):
-    _icon = "snowflake.png"
 
 class Segment(_Analytics):
     _icon = "segment.png"
 
+
 class Sigma(_Analytics):
     _icon = "sigma.png"
+
+
+class Snowflake(_Analytics):
+    _icon = "snowflake.png"
+
 
 class Stitch(_Analytics):
     _icon = "stitch.png"

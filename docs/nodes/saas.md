@@ -12,6 +12,10 @@ Node classes list of saas provider.
 
 ## saas.analytics
 
+- **diagrams.saas.analytics.Fivetran**
+- **diagrams.saas.analytics.Mode**
+- **diagrams.saas.analytics.Segment**
+- **diagrams.saas.analytics.Sigma**
 - **diagrams.saas.analytics.Snowflake**
 - **diagrams.saas.analytics.Stitch**
 
@@ -29,6 +33,11 @@ Node classes list of saas provider.
 - **diagrams.saas.chat.Teams**
 - **diagrams.saas.chat.Telegram**
 
+## saas.email
+
+- **diagrams.saas.email.Mailgun**
+- **diagrams.saas.email.Vero**
+
 ## saas.identity
 
 - **diagrams.saas.identity.Auth0**
@@ -38,6 +47,13 @@ Node classes list of saas provider.
 
 - **diagrams.saas.logging.Datadog**, **DataDog** (alias)
 - **diagrams.saas.logging.Papertrail**
+
+## saas.logistics
+
+- **diagrams.saas.logistics.Dat**
+- **diagrams.saas.logistics.Freightview**
+- **diagrams.saas.logistics.Orderful**
+- **diagrams.saas.logistics.P44**
 
 ## saas.media
 
@@ -51,3 +67,7 @@ Node classes list of saas provider.
 
 - **diagrams.saas.social.Facebook**
 - **diagrams.saas.social.Twitter**
+
+## saas.tms
+
+- **diagrams.saas.tms.Quickbase**

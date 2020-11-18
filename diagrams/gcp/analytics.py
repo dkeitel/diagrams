@@ -44,11 +44,12 @@ class Genomics(_Analytics):
     _icon = "genomics.png"
 
 
-class StackDriver(_Analytics):
-    _icon = "stackdriver.png"
-
 class Pubsub(_Analytics):
     _icon = "pubsub.png"
+
+
+class Stackdriver(_Analytics):
+    _icon = "stackdriver.png"
 
 
 # Aliases

@@ -17,6 +17,7 @@ Node classes list of gcp provider.
 - **diagrams.gcp.analytics.Dataproc**
 - **diagrams.gcp.analytics.Genomics**
 - **diagrams.gcp.analytics.Pubsub**, **PubSub** (alias)
+- **diagrams.gcp.analytics.Stackdriver**
 
 ## gcp.api
 
