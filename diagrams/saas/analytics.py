@@ -16,6 +16,10 @@ class Mode(_Analytics):
     _icon = "mode.png"
 
 
+class Newrelic(_Analytics):
+    _icon = "newrelic.png"
+
+
 class Segment(_Analytics):
     _icon = "segment.png"
 

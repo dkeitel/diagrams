@@ -14,6 +14,7 @@ Node classes list of saas provider.
 
 - **diagrams.saas.analytics.Fivetran**
 - **diagrams.saas.analytics.Mode**
+- **diagrams.saas.analytics.Newrelic**
 - **diagrams.saas.analytics.Segment**
 - **diagrams.saas.analytics.Sigma**
 - **diagrams.saas.analytics.Snowflake**
